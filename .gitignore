@@ -86,4 +86,4 @@ typings/
 .webpack/
 
 # Electron-Forge
-out/
+out/expensecalc_electron-linux-x64/
